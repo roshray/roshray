@@ -1,12 +1,9 @@
 ### Hi there, I'm Roshan -
 
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=rosh_ray_)
-
 ## I'm a Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other Open Source Developer
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
@@ -26,7 +23,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.roshray.vercel.app/api?username=roshray&show_icons=true&hide_border=true" />
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=roshray&show_icons=true&hide_border=true" />
 
 </details>
 
