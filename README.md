@@ -1,4 +1,4 @@
-### Hi there, I'm Roshan - Developer
+### Hi there, I'm Roshan - Machine Learning Engineer
 
 - 👯 I’m looking to collaborate with other Open Source Developer
 - 🥅 2022 Goals: Contribute more to Open Source projects
@@ -13,16 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="rosh_ray_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="roshanray | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="rosh__ray | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
-
-<br />
-<br />
+[![Twitter Follow](https://img.shields.io/twitter/follow/rosh_ray_?label=Follow&style=social)](https://twitter.com/rosh_ray_)
 
 
-[twitter]: https://twitter.com/rosh_ray_
-[instagram]: https://instagram.com/rosh__ray
-[linkedin]: https://linkedin.com/in/roshanray
