@@ -1,6 +1,6 @@
 ### Hi there, I'm Roshan - Machine Learning Engineer
 
-- 👯 I’m looking to collaborate with other Open Source Developer
+- 👯 I’m looking to collaborate with other Open Source Projects & Developer's!
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
 
