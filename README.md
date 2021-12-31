@@ -1,4 +1,6 @@
-### Hi there, I'm Roshan - Machine Learning Engineer
+## Hi there, I'm Roshan - Machine Learning Engineer 
+
+- Experienced working as an engineer in a couple of startups, as a Research Engineer in a privacy-based Open Sourced Organisation as well as running a B2C startup. 
 
 - 👯 I’m looking to collaborate with other Open Source Projects & Developer's!
 - 🥅 2022 Goals: Contribute more to Open Source projects
