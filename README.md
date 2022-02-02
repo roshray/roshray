@@ -12,8 +12,6 @@
   &nbsp; &nbsp; &nbsp; &nbsp;
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshray&" alt="Streak Stats"  width="48%"/>
 </p>
-
-<img src="https://activity-graph.herokuapp.com/graph?username=roshray&bg_color=ffffff&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true%22%3E%3C/details">
   
 # Connect with me:
 
