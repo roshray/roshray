@@ -12,6 +12,7 @@
    <img title='Git' src='https://github.com/roshray/v-learn/blob/master/git.png' width='70' height='40'>
    <img title='S3' src='https://github.com/roshray/v-learn/blob/master/S3.png' width='70' height='40'>
    <img title='Python' src='https://github.com/roshray/v-learn/blob/master/python.png' width='60' height='40'>
+   <img title='PyTorch' src='https://github.com/roshray/v-learn/blob/master/PyTorch.png' widdth='60' height='40'>
    <img title='Grafana' src='https://github.com/roshray/v-learn/blob/master/Grafana.png' width='70' height='40'>
    <img title='Docker' src='https://github.com/roshray/v-learn/blob/master/Docker.png' width='70' height='40'>
    <img title='Chainer' src='https://github.com/roshray/v-learn/blob/master/Chainer.png' width='80' height='30'>
