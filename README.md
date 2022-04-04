@@ -4,7 +4,9 @@
 - 👯 I’m looking to collaborate with other Open Source Projects & Developer's!
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
-### Skills 
+## Skills 
+
+
 <p align='left'>
    <img title='PyTorchLightning' src='https://github.com/roshray/v-learn/blob/master/PyTorchLightning.png' width='70' height='40'>
    <img title='DVC' src='https://github.com/roshray/v-learn/blob/master/DVC.png' width='70' height='40'>
@@ -20,7 +22,8 @@
    <img title='TensorFlow' src='https://github.com/roshray/v-learn/blob/master/Tensorflow.png' width='50' height='35'>
 </p>
 
-<summary>:zap: GitHub Stats & Streak</summary>
+
+## GitHub Stats & Streak
 
 <p align="centre">
    <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=roshray&show_icons=true&hide_border=true" width=48%/>
