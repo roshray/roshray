@@ -28,10 +28,9 @@
 <p align="centre">
    <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=roshray&show_icons=true&hide_border=true" width=48%/>
   &nbsp; &nbsp; &nbsp; &nbsp;
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshray&" alt="Streak Stats"  width="48%"/>
 </p>
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=roshray&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## Connect with me:
 
