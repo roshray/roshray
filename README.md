@@ -25,13 +25,13 @@
 
 ## GitHub Stats & Streak
 
-
+<p align='center'>
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=roshray&show_icons=true&hide_border=true" width=48%/>
   &nbsp; &nbsp; &nbsp; &nbsp;
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=roshray&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=roshray&)](https://git.io/streak-stats)
+</p>
 
 
 
