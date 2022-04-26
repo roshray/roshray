@@ -23,18 +23,6 @@
 </p>
 
 
-## GitHub Stats & Streak
-
-
-<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=roshray&show_icons=true&hide_border=true" width=48%/>
-  &nbsp; &nbsp; &nbsp; &nbsp;
-
-<p align='right'>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=roshray&)](https://git.io/streak-stats)
-
-</p>
-
 
 ## Connect with me:
 
