@@ -26,6 +26,6 @@
 
 ## Connect with me:
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/rosh_ray_?label=Follow&style=social)](https://twitter.com/rosh_ray_)
+[![Follow](https://img.shields.io/twitter/follow/rosh_ray_?style=social)](https://twitter.com/intent/follow?screen_name=rosh_ray_)    <a href="https://www.linkedin.com/in/roshanray/"><img src=https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg height="20px"/><a/>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=roshray.roshray)
