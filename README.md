@@ -1,4 +1,4 @@
-## Hi there, I'm Roshan - Machine Learning Engineer 
+## Hi there, I'm Roshan - Software Engineer 
 
 
 - 👯 I’m looking to collaborate with other Open Source Projects & Developer's!
