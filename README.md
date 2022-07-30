@@ -1,8 +1,7 @@
-## Hi there, I'm Roshan - Software Engineer 
+# Hi there, I'm Roshan - Software Engineer 
 
+### ⚫ Available For Hire
 
-- 👯 I’m looking to collaborate with other Open Source Projects & Developer's!
-- 🥅 2022 Goals: Contribute more to Open Source projects
 
 ## Skills 
 
@@ -28,4 +27,4 @@
 
 [![Follow](https://img.shields.io/twitter/follow/rosh_ray_?style=social)](https://twitter.com/intent/follow?screen_name=rosh_ray_)    <a href="https://www.linkedin.com/in/roshanray/"><img src=https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg height="20px"/><a/>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=roshray.roshray)
+
