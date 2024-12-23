@@ -1,1 +1,1 @@
-# Hi there 👋, I'm an Software Engineer.
+# Hi there 👋, I'm a Software Engineer.
